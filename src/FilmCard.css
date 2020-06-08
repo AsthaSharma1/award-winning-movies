@@ -1,0 +1,82 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+.div{
+    position: center;
+}
+.cards {
+    border-radius: 5px;
+    /*padding-top: -10%;*/
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: auto;
+    align-content: center;
+    background-color: lavenderblush;
+    box-shadow: 0px 0px 49px -9px rgba(0, 0, 0, 0.75);
+    font-family: 'Raleway', sans-serif;
+    background-image: url("https://i.pinimg.com/originals/4d/fb/5c/4dfb5ca76e0d23a6cf3adbc80fcffcec.png");
+    background-size:130%;
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+}
+.title> #titleTitle{
+    font-size:40px;
+    display:inline-block;
+    /*position: relative;*/
+    /*text-align: center;*/
+    padding-left:10px;
+    font-weight: 900;
+}
+.title > #titleYear{
+    display:inline-block;
+    float: right;
+    /*position: relative;*/
+    /*font-size:40px;*/
+    padding-right:10px;
+
+}
+.awards{
+   font-size:40px;
+    padding-left:10px;
+}
+
+.stats {
+    text-align: center;
+    width: 50%;
+    color: black;
+    box-shadow: 0px 0px 49px -9px rgba(10, 10, 10, 0.75);
+    background-color: #e2dfdf;
+    opacity: 0.85;
+    padding: 10px 0 10px 0;
+    margin: 50px auto 20px auto;
+    font-family:sans-serif;
+}
+
+/*.rt {*/
+/*    top: -300px;*/
+/*    position: relative;*/
+/*    display: inline-block;*/
+
+/*}*/
+.posters > img{
+    height: 10%;
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.rtLogo{
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.imdbLogo{
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    padding-left: 25px;
+}
